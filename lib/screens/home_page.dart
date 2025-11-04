@@ -18,7 +18,7 @@ class _MyWidgetState extends State<HomePage> {
     //donut tab
     const MyTab(iconPath: 'lib/icons/donut.png', label: 'Donut'),
     //burguer tab
-    const MyTab(iconPath: 'lib/icons/burger.png', label: 'Burguer'),
+    const MyTab(iconPath: 'lib/icons/burger.png', label: 'Burger'),
     //smoothie tab
     const MyTab(iconPath: 'lib/icons/smoothie.png', label: 'Smoothie'),
     //pancake tab

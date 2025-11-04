@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 class DonutTile extends StatelessWidget {
-  final String donutFlavor;
-  final String donutPrice;
-  final dynamic donutColor;
-  final String donutImagePath;
-  final String donutProvider;
+  final String donutFlavor; //donutFlavor sirve para almacenar el sabor de la dona
+  final String donutPrice;//donutPrice sirve para almacenar el precio de la dona
+  final dynamic donutColor;//donutColor sirve para almacenar el color de la dona
+  final String donutImagePath;//donutImagePath sirve para almacenar la ruta de la imagen de la dona
+  final String donutProvider;//donutProvider sirve para almacenar el proveedor de la dona
 
   //constructor
   const DonutTile({
